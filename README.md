@@ -16,7 +16,7 @@ Questions we hope to answer in this project;
 2. What are the highest coorelated factors for heart disease?
 3. What groups are the most at risk for heart attacks?
 4. What could be the most important choices made to reverse the potential negative outcoes of heart disease?
-
+5. How will this data help hospitals to make informed decisions and develop effective business plans and strategies?
 
 
 **References**
