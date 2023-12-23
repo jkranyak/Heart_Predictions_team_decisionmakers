@@ -18,6 +18,17 @@ Questions we hope to answer in this project;
 4. What could be the most important choices made to reverse the potential negative outcoes of heart disease?
 5. How will this data help hospitals to make informed decisions and develop effective business plans and strategies?
 
+**About our datasets** 
+
+Framingham Data<sup>1</sup>
+"The Framingham heart disease dataset includes over 4,240 records,16 columns and 15 attributes. 
+The goal of the dataset is to predict whether the patient has 10-year risk of future (CHD) coronary heart disease"<sup>1</sup>
+
+
+**Licensing of datasets**
+
+This specific sampling of the Framingham dataset has ambiguous licensing. The licensing when downloaded from kaggel is stated as 'unknown', full use of the Framingham dataset requires an application and approval of research.  The full data set covers a much larger dataset than the sampling we have accessed off kaggle.com.
+CDC dataset has 
 
 **References**
 
