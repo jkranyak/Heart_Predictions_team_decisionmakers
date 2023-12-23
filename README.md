@@ -18,6 +18,8 @@ This project focuses on the factors that predict heart attacks in adults.  To de
 4. What could be the most important choices made to reverse the potential negative outcoes of heart disease?
 5. How will this data help hospitals to make informed decisions and develop effective business plans and strategies?
 
+${project_1 data/project_heart.jpeg}
+
 **About our Data** 
 
 * Framingham Data<sup>1</sup>
