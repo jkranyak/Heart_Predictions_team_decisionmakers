@@ -1,7 +1,7 @@
 # PROJECT_1_Team_DecisionMakers
 
 ## Heart Attack Prediction Metrics
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/jessekranyak/Desktop/Homework/PROJECT_1_team_decisionmankers/images/Project%2520Cover%2520img.jpg?version%253D1703386030485)
+![Alt text](/images/Project%2520Cover%2520img.jpg)
 
 ## **All Code created by:**
 - Siriesha Mandava
@@ -20,7 +20,7 @@ This project focuses on the factors that predict heart attacks in adults.  To de
 4. What could be the most important choices made to reverse the potential negative outcoes of heart disease?
 5. How will this data help hospitals to make informed decisions and develop effective business plans and strategies?
 
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/jessekranyak/Desktop/Homework/PROJECT_1_team_decisionmankers/project_1%2520data/project_heart.jpeg?version%253D1703385951353)
+![Alt text](/project_1%2520data/project_heart.jpeg)
 **About our Data** 
 
 * Framingham Data<sup>1</sup>
