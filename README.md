@@ -1,7 +1,7 @@
 # PROJECT_1_Team_DecisionMakers
 
 ## Heart Attack Prediction Metrics
-![Alt text](/images/Project%2520Cover%2520img.jpg)
+[Alt text](<images/Project Cover img.jpg>))
 
 ## **All Code created by:**
 - Siriesha Mandava
@@ -20,7 +20,8 @@ This project focuses on the factors that predict heart attacks in adults.  To de
 4. What could be the most important choices made to reverse the potential negative outcoes of heart disease?
 5. How will this data help hospitals to make informed decisions and develop effective business plans and strategies?
 
-![Alt text](/project_1%2520data/project_heart.jpeg)
+![Alt text](<project_1 data/project_heart.jpeg>)
+
 **About our Data** 
 
 * Framingham Data<sup>1</sup>
