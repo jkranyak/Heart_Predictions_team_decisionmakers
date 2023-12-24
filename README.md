@@ -1,7 +1,7 @@
 # PROJECT_1_Team_DecisionMakers
 
 ## Heart Attack Prediction Metrics
-[Alt text](<images/Project Cover img.jpg>))
+![Alt text](<images/Project Cover img.jpg>)
 
 ## **All Code created by:**
 - Siriesha Mandava
