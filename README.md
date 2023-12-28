@@ -31,7 +31,7 @@ The goal of the dataset is to predict whether the patient has 10-year risk of fu
 
 * CDC Data<sup>2</sup>
 
-> [https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease][Our CDC dataset] comes from kaggle as well. This is a partially cleaned dataset where he author has reduced the data points from over 300 to the 40 most applicable for heart disease.   [Here is a link to the repository of the original data and how it was cleaned](https://github.com/kamilpytlak/data-science-projects/blob/main/heart-disease-prediction/2022/notebooks/data_processing.ipynb)
+> [Our CDC dataset][https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease] comes from kaggle as well. This is a partially cleaned dataset where he author has reduced the data points from over 300 to the 40 most applicable for heart disease.   [Here is a link to the repository of the original data and how it was cleaned](https://github.com/kamilpytlak/data-science-projects/blob/main/heart-disease-prediction/2022/notebooks/data_processing.ipynb)
 
 
 
