@@ -4,10 +4,10 @@
 ![Alt text](<images/Project Cover img.jpg>)
 
 ## **All Code created by:**
-- Siriesha Mandava
+- Jesse Kranyak
 - Jeff Boczkaja
 - Mohamed Altoobi
-- Jesse Kranyak
+- Siriesha Mandava
 
 
 This project focuses on the factors that predict heart attacks in adults.  To determine the factors that predict heart attacks in adults several data sets were utilized and cleaned in this project, and referenced below.  
@@ -34,9 +34,6 @@ The goal of the dataset is to predict whether the patient has 10-year risk of fu
 > [Our CDC dataset](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease) comes from kaggle as well. This is a partially cleaned dataset where he author has reduced the data points from over 300 to the 40 most applicable for heart disease.   [Here is a link to the repository of the original data and how it was cleaned](https://github.com/kamilpytlak/data-science-projects/blob/main/heart-disease-prediction/2022/notebooks/data_processing.ipynb)
 
 
-**Changes**
--Change one
-Testing the changes in forking - Can delete this line. 
 
 **Licensing of Data**
 
@@ -52,4 +49,3 @@ Testing the changes in forking - Can delete this line.
 <sup>2</sup> CDC dataset was taken from https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease 
 
 
-[def]: https://i0.wp.com/www.asktheradtech.com/wp-content/uploads/2020/04/crazy-xray-4.jpg?w=589&ssl=1
