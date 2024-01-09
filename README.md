@@ -12,13 +12,6 @@
 
 This project focuses on the factors that predict heart disease in adults.  To determine the factors that predict heart attacks in adults several data sets were utilized and cleaned in this project, and referenced below.  
 
-## Questions we hope to answer in this project;
-
-1. What is the most important factor in determining heart disease?
-2. What are the highest coorelated factors for heart disease?
-3. What groups are the most at risk for heart attacks?
-4. What could be the most important choices made to reverse the potential negative outcoes of heart disease?
-5. How will this data help hospitals to make informed decisions and develop effective business plans and strategies?
 
 ![Alt text](<project_1 data/project_heart.jpeg>)
 
