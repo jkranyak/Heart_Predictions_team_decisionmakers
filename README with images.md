@@ -48,7 +48,10 @@ To answer our questions we mainly focused on correlations and risk factors that 
 
 
 ![loop Describe](<image Presentation/loop dscribe.png>)
-
+<p align="center">
+  <img src="image Presentation/loop dscribe.png" alt="loop Describe" width="800" >
+</p>
+Due to the Big number of columns we used a loop to heck the Data
 
 
 1. **What is the most important factor in determining heart disease?**
