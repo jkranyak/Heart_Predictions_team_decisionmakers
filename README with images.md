@@ -79,9 +79,8 @@ We used this Code to Plot all the factors to find and see the correlation - we u
 
    This is all factors are ploted in one Graph:
 
-<p align="center">
-  <img src="[image Presentation/Data reframining sample code.png](https://github.com/jkranyak/PROJECT_1_team_decisionmankers/blob/main/images/Squid_Graph.png)" alt="Squid Graph" width="1000" >
-</p>
+ ![Squid Graph](https://github.com/jkranyak/PROJECT_1_team_decisionmankers/blob/main/images/Squid_Graph.png)
+
    
  
 
@@ -90,7 +89,10 @@ We used this Code to Plot all the factors to find and see the correlation - we u
    We reframed this question to ask; what are the highest correlated factors TO heart disease and ran our data. The highest correlated factors were age and general health, this seemed intuitive. Other than that, some more data we uncovered seemed to also be rather intuitive; such as the correlation between general health and difficulty walking, which had the highest heat map correlation.
 
 
-   ![correlation heat map](<image Presentation/Correlation Heatmap.png>)
+This i Heat map to see the correlation for all the factors
+<p align="center">
+  <img src="image Presentation/Correlation Heatmap.png" alt="correlation heat map" width="900" >
+</p>
 
 
 
@@ -98,17 +100,20 @@ We used this Code to Plot all the factors to find and see the correlation - we u
 
 
 
-
-   ![eart Disease by Age Category and Gender ](<image Presentation/Heart Disease by Age Category and Gender.png>)
-
+Plotting the Heart Disease with Gender 
+<p align="center">
+  <img src="image Presentation/Heart Disease by Age Category and Gender.png" alt="Heart Disease by Age Category and Gender" width="900" >
+</p>
 
 3. **What groups are the most at risk for heart attacks?**
 
    We found that the most at-risk groups for heart disease were aging populations, men, Native Americans followed by Whites, smokers vs non-smokers (12% vs 6%), and having diabetes.
 
-
-
-   ![Percentage of People with Heart Disease by Race](<image Presentation/Percentage of People with Heart Disease by Race.png>)
+Percentage of People with Heart Disease by Race
+<p align="center">
+  <img src="image Presentation/Percentage of People with Heart Disease by Race.png" alt="Percentage of People with Heart Disease by Race" width="800" >
+</p>
+ 
 
 
 4. **What could be the most important choices made to reverse the potential negative outcomes of heart disease?**
@@ -118,15 +123,28 @@ We used this Code to Plot all the factors to find and see the correlation - we u
    However, as a critical thinking exercise, we would suggest that this data is indicative of reducing heart disease by living an active and healthy lifestyle; perhaps that would include exercise, staying physically active, and maintaining your ability to walk as long as possible. Also, the data around BMI seems to suggest that staying around 20-25BMI has the least risk, so keeping a healthy diet would help in reducing your risk of heart disease… but the data also indicates that a BMI too low also increases your risk of developing heart disease! So, don’t skip dessert too many times, and have a drink! It seems that drinking had a negative correlation on heart disease according to this data set.
 
 
-   ![sleep time and heart Disease](<image Presentation/Average Heart Disease Occurrence by sleep time.png>)
+sleep time and heart Disease
+
+<p align="center">
+  <img src="image Presentation/Average Heart Disease Occurrence by sleep time.png" alt="sleep time and heart Disease" width="600" >
+</p>
+
+
+Physical Activity and heart Disease Graph
+<p align="center">
+  <img src="image Presentation/Average Heart Disease Occurrence by physical activity.png" alt="Physical Activity and heart Disease Graph" width="400" >
+</p>
 
 
 
-   ![Physical Activity and heart Disease Graph](<image Presentation/Average Heart Disease Occurrence by physical activity.png>)
 
 
+Smoking and Heart Disease
 
-   ![Smoking and Heart Disease](<image Presentation/Percentage of People with Heart Disease by Smoking Status'.png>)
+<p align="center">
+  <img src="image Presentation/Percentage of People with Heart Disease by Smoking Status'.png" alt="Smoking and Heart Disease" width="400" >
+</p>
+
 
 5. **How will this data help hospitals to make informed decisions and develop effective business plans and strategies?**
 
@@ -145,4 +163,8 @@ We used this Code to Plot all the factors to find and see the correlation - we u
 Looking at the future in terms of projects in heart disease, our group would be interested in looking at other datasets that included more data that revolved around specific questions. For instance, diet, physical locale, income, stress levels. This data could also be compared or grouped with other data frames, such as pollution levels by geography. We are sure that the depth of information that epidemiologists have gathered is already ahead of us, and we are looking forward to discovering these projects as we continue to learn.
 
 
-![Machine Learing Sample](<image Presentation/RandomForest Importances for Heart Disease Prediction.png>)
+Machine Learing Sample
+
+<p align="center">
+  <img src="image Presentation/RandomForest Importances for Heart Disease Prediction.png" alt="Machine Learing Sample" width="800" >
+</p>
