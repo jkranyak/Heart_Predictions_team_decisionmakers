@@ -6,11 +6,10 @@
 ## Table of Contents
 1. [Project Purpose / Description](#project-purpose)
 2. [Goals/Questions to be addressed](#goals-questions)
-3. [Overview of data collection, cleanup, and exploration process](#overview-data-collection)
-4. [Approach taken to achieve goals](#approach-taken)
-5. [Questions to be addressed](#q)
-     [What is the most important factor in determining heart disease?](#q1)
-7. [Future development](#future-development)
+        - [What is the most important factor in determining heart disease?](#q1)
+4. [Overview of data collection, cleanup, and exploration process](#overview-data-collection)
+5. [Approach taken to achieve goals](#approach-taken)
+6. [Future development](#future-development)
 
 <a name="project-purpose"></a>
 ## Project Purpose / Description
