@@ -14,6 +14,7 @@
 4. [Overview of data collection, cleanup, and exploration process](#overview-data-collection)
 5. [Approach taken to achieve goals](#approach-taken)
 6. [Future development](#future-development)
+7. [Directory Structure](#directory)
 
 <a name="project-purpose"></a>
 ## Project Purpose / Description
@@ -175,3 +176,15 @@ Machine Learing Sample
 <p align="center">
   <img src="image Presentation/RandomForest Importances for Heart Disease Prediction.png" alt="Machine Learing Sample" width="800" >
 </p>
+
+<a name="directory"></a>
+## Directory Structure:
+- project_folder/
+  - file1.py
+  - file2.py
+- data/
+  - dataset.csv
+- images/
+  - image1.png
+  - image2.jpg
+- README.md
