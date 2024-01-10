@@ -35,6 +35,8 @@ As we mentioned earlier our data was already cleaned, for the most part. We did 
 
 
 ![Data Reframing](<image Presentation/Data reframining sample code.png>)
+<img src="Data reframining sample code.png" alt="Data Reframing" width="300" >
+
 
 <a name="approach-taken"></a>
 ## Approach taken to achieve goals
