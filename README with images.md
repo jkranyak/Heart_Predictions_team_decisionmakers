@@ -47,7 +47,7 @@ Provide a summary of the results with the supporting visualizations (at least 2 
 To answer our questions we mainly focused on correlations and risk factors that seemed to stand out.
 
 
-![loop Describe](<image Presentation/loop dscribe.png>)
+
 <p align="center">
   <img src="image Presentation/loop dscribe.png" alt="loop Describe" width="800" >
 </p>
@@ -60,10 +60,19 @@ Due to the Big number of columns we used a loop to heck the Data
 
    Some interesting points we noticed looking at this data are that as we age heart disease becomes more prevalent in men, although men remain at a higher risk than women according to this data, it increases with age.
    
-![Ploting all Factors code](<image Presentation/Ploting all the factors.png>)
+We used this Code to Plot all the factors to find and see the correlation - we used a diffrent methods this is oe of them
 
-   ![all factors ploted Graph](<image Presentation/HD with factors.png>)
+<p align="center">
+  <img src="image Presentation/Ploting all the factors.png" alt="Ploting all Factors code" width="800" >
+</p>
+
    
+ after using the Code this is the Result, which gave us a graph for each factor for its correlation  
+   
+   ![all factors ploted Graph](<image Presentation/HD with factors.png>)
+<p align="center">
+  <img src="image Presentation/HD with factors.png" alt="all factors ploted Graph " width="1000" >
+</p>   
    
    
    ![Squid Graph](https://github.com/jkranyak/PROJECT_1_team_decisionmankers/blob/main/images/Squid_Graph.png)
