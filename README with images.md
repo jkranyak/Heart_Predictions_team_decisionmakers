@@ -7,6 +7,10 @@
 1. [Project Purpose / Description](#project-purpose)
 2. [Goals/Questions to be addressed](#goals-questions)
    - [What is the most important factor in determining heart disease?](#q1)
+   - [What are the highest correlated factors for heart disease?](#q2)
+   - [What groups are the most at risk for heart attacks?](#q3)
+   - [What could be the most important choices made to reverse the potential negative outcomes of heart disease?](#q4)
+   - [How will this data help hospitals to make informed decisions](#q5)
 4. [Overview of data collection, cleanup, and exploration process](#overview-data-collection)
 5. [Approach taken to achieve goals](#approach-taken)
 6. [Future development](#future-development)
@@ -84,7 +88,7 @@ We used this Code to Plot all the factors to find and see the correlation - we u
 
    
  
-
+<a name="q2"></a>
 2. **What are the highest correlated factors for heart disease?**
 
    We reframed this question to ask; what are the highest correlated factors TO heart disease and ran our data. The highest correlated factors were age and general health, this seemed intuitive. Other than that, some more data we uncovered seemed to also be rather intuitive; such as the correlation between general health and difficulty walking, which had the highest heat map correlation.
@@ -106,6 +110,8 @@ Plotting the Heart Disease with Gender
   <img src="image Presentation/Heart Disease by Age Category and Gender.png" alt="Heart Disease by Age Category and Gender" width="900" >
 </p>
 
+
+<a name="q3"></a>
 3. **What groups are the most at risk for heart attacks?**
 
    We found that the most at-risk groups for heart disease were aging populations, men, Native Americans followed by Whites, smokers vs non-smokers (12% vs 6%), and having diabetes.
@@ -116,7 +122,7 @@ Percentage of People with Heart Disease by Race
 </p>
  
 
-
+<a name="q4"></a>
 4. **What could be the most important choices made to reverse the potential negative outcomes of heart disease?**
 
    It's hard to extrapolate from our data the information we need to answer this question, aside from the obvious factors, such as stop smoking if you smoke, sleeping for about 7 hours per night and taking care of your general health.
@@ -146,7 +152,7 @@ Smoking and Heart Disease
   <img src="image Presentation/Percentage of People with Heart Disease by Smoking Status'.png" alt="Smoking and Heart Disease" width="400" >
 </p>
 
-
+<a name="q5"></a>
 5. **How will this data help hospitals to make informed decisions and develop effective business plans and strategies?**
 
    As mentioned earlier, this question poses a bit of an issue for us. We believe that over the next few weeks as our class gets into more developed machine learning and AI tools we would be in a better position to answer a question like this using our data set. However, at this point, we would just be making uneducated guesses as to how or where this could be used.
