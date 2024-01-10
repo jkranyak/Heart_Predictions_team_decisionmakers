@@ -17,7 +17,7 @@ This project focuses on the factors that predict heart disease in adults. To det
 
 The original dataset from the CDC had over 300 data points, and nearly half a million participants spanning decades. Our trimmed dataset from this larger group of data contained 18 data points and 319,795 participants.
 
-<a name="#goals-questions"></a>
+<a name="goals-questions"></a>
 ## Goals/Questions to be addressed
 
 When we started this project we envisioned the following questions would be important for our project:
@@ -28,7 +28,7 @@ When we started this project we envisioned the following questions would be impo
 5. How will this data help hospitals to make informed decisions and develop effective business plans and strategies?
 
 
-<a name="#overview-data-collection"></a>
+<a name="overview-data-collection"></a>
 ## Overview of data collection, cleanup, and exploration process
 
 As we mentioned earlier our data was already cleaned, for the most part. We did need to convert a lot of the data entries into 0 and 1 to replace the values for keys in the data dictionary, as well as mapping some of the values into integers...
@@ -36,7 +36,7 @@ As we mentioned earlier our data was already cleaned, for the most part. We did 
 
 ![Data Reframing](<image Presentation/Data reframining sample code.png>)
 
-<a name="#approach-taken"></a>
+<a name="approach-taken"></a>
 ## Approach taken to achieve goals
 
 Provide a summary of the results with the supporting visualizations (at least 2 per question)
@@ -115,7 +115,7 @@ To answer our questions we mainly focused on correlations and risk factors that 
    Some of the data surrounding the increases in heart disease as a comorbidity for other medical issues would also be important information for hospitals to have access to. For instance, people that have had skin cancers, asthma, diabetes, and kidney disease all had a higher risk of developing heart disease than those people who did not.
 
 
-<a name="#future-development"></a>
+<a name="future-development"></a>
 ## Future development
 
 Looking at the future in terms of projects in heart disease, our group would be interested in looking at other datasets that included more data that revolved around specific questions. For instance, diet, physical locale, income, stress levels. This data could also be compared or grouped with other data frames, such as pollution levels by geography. We are sure that the depth of information that epidemiologists have gathered is already ahead of us, and we are looking forward to discovering these projects as we continue to learn.
