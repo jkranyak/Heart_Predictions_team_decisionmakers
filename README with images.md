@@ -34,8 +34,9 @@ When we started this project we envisioned the following questions would be impo
 As we mentioned earlier our data was already cleaned, for the most part. We did need to convert a lot of the data entries into 0 and 1 to replace the values for keys in the data dictionary, as well as mapping some of the values into integers...
 
 
-![Data Reframing](<image Presentation/Data reframining sample code.png>)
-<img src="Data reframining sample code.png" alt="Data Reframing" width="300" >
+
+<img src="image Presentation/Data reframining sample code.png" alt="Data Reframing" width="500" >
+This image shows one of our methode to chage the Data in Some columns so we can calculate the correlation
 
 
 <a name="approach-taken"></a>
