@@ -179,15 +179,18 @@ Machine Learing Sample
 
 <a name="directory"></a>
 ## Directory Structure:
-- project_folder/
-  - file1.py
-  - file2.py
-- data/
-  - dataset.csv
 - image Presentation/
-  - image1.png
-  - image2.jpg
+  - Contain images used in the project
+- images/
+  - contain old images we used
+- old project files/
+  - contain our working files and drafts
+- project_1 data/
+  - ontain all data sets
+-Main Project
+-Proposal_Project1_Heart.pdf
 - README.md
+- 
 
 
 
