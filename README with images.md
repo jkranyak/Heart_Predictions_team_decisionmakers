@@ -184,7 +184,7 @@ Machine Learing Sample
   - file2.py
 - data/
   - dataset.csv
-- images/
+- image Presentation/
   - image1.png
   - image2.jpg
 - README.md
