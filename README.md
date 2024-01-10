@@ -65,15 +65,15 @@ To answer our questions we mainly focused on correlations and risk factors that 
 
 For this we determined that general health was the largest determinant in developing heart disease. You can see from the following graph that even through our lifespan it remains as one of the highest variables correlated to disease.  Following general health we can see that physical activity also plays a lifelong role in your hearts health.  
 
-Some interesting points we notice looking at this data are that as we age heart disease becomes more prevalent in men, although men remain at a higher risk than women according to this data, it increases with age.  
+Some interesting points we noticed looking at this data are that as we age heart disease becomes more prevalent in men and although men remain at a higher risk than women according to this data, it increases with age for both.  
 
 2. What are the highest correlated factors for heart disease?
 
 We reframed this question to ask; what are the highest correlated factors TO heart disease and ran our data.  The highest correlated factors were age and general health, this seemed intuitive.  Other than that, some more data we uncovered seemed to also be rather intuitive; such as the correlation between general health and difficulty walking, which had the highest heat map correlation.  
 
-3. What groups are the most at risk for heart attacks?
+3. What groups are the most at risk for heart disease?
 
-We found that the most at risk groups for heart disease were aging populations, men, Native Americans followed by Whites, smokers vs non smokers (12% v 6%), and having diabetes 
+We found that the most at risk groups for heart disease were aging populations, men, Native Americans followed by Whites, smokers vs non smokers (12% v 6%), and those with diabetes. 
 
 DROP GRAPHS
 
@@ -81,7 +81,7 @@ DROP GRAPHS
 
 Its hard to extrapolate from our data the information we need to answer this question, aside from the obvious factors, such as stop smoking if you smoke, sleeping for about 7 hours per night and taking care of your general health.  
 
-However, as a critical thinking exercise we would suggest that this data is indicative of reducing heart disease by living an active and healthy lifestyle; perhaps that would include exercise, staying physically active and maintaining your ability to walk as long as possible.  Also the data around BMI seems to suggest that staying around 20-25BMI has the least risk, so keeping a healthy diet would help in reducing your risk of heart disease… but the data also indicates that a BMI too low also increases your risk of developing heart disease! So, don’t skip dessert too many times, and have a drink!  It seems that drinking had a negative correlation on heart disease according to this data set.  
+However, as a critical thinking exercise we would suggest that this data is indicative of reducing heart disease by living an active and healthy lifestyle; perhaps that would include exercise, staying physically active and maintaining your ability to walk as long as possible.  Also the data around BMI seems to suggest that staying around 20-25BMI has the least risk, so keeping a healthy diet would help in reducing your risk of heart disease, but the data also indicates that a BMI too low also increases your risk of developing heart disease! So, don’t skip dessert too many times, and have a drink!  It seems that drinking had a negative correlation on heart disease according to this data set.  
 
 5. How will this data help hospitals to make informed decisions and develop effective business plans and strategies?
 
