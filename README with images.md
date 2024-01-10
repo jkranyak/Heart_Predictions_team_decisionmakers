@@ -8,7 +8,9 @@
 2. [Goals/Questions to be addressed](#goals-questions)
 3. [Overview of data collection, cleanup, and exploration process](#overview-data-collection)
 4. [Approach taken to achieve goals](#approach-taken)
-5. [Future development](#future-development)
+5. [Questions to be addressed](#q)
+     [What is the most important factor in determining heart disease?](#q1)
+7. [Future development](#future-development)
 
 <a name="project-purpose"></a>
 ## Project Purpose / Description
@@ -53,7 +55,7 @@ To answer our questions we mainly focused on correlations and risk factors that 
 </p>
 Due to the Big number of columns we used a loop to heck the Data
 
-
+<a name="q1"></a>
 1. **What is the most important factor in determining heart disease?**
 
    For this, we determined that general health was the largest determinant in developing heart disease. You can see from the following graph that even through our lifespan it remains as one of the highest variables correlated to disease. Following general health we can see that physical activity also plays a lifelong role in your heart's health.
