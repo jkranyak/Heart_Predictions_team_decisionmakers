@@ -79,7 +79,7 @@ We used this Code to Plot all the factors to find and see the correlation - we u
 
    This is all factors are ploted in one Graph:
 
-   <p align="center">
+<p align="center">
   <img src="[image Presentation/Data reframining sample code.png](https://github.com/jkranyak/PROJECT_1_team_decisionmankers/blob/main/images/Squid_Graph.png)" alt="Squid Graph" width="1000" >
 </p>
    
