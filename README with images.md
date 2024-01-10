@@ -1,6 +1,6 @@
 # Heart Disease Prediction Metrics
 
-![cover Project conterbuter](<https://github.com/jkranyak/PROJECT_1_team_decisionmankers/blob/main/image Presentation/cover-for-project.png>)
+![cover Project conterbuter](https://github.com/jkranyak/PROJECT_1_team_decisionmankers/blob/main/image Presentation/cover-for-project.png)
 
 
 ## Table of Contents
