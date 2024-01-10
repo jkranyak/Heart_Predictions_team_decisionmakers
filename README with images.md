@@ -69,13 +69,21 @@ We used this Code to Plot all the factors to find and see the correlation - we u
    
  after using the Code this is the Result, which gave us a graph for each factor for its correlation  
    
-   ![all factors ploted Graph](<image Presentation/HD with factors.png>)
+ 
 <p align="center">
   <img src="image Presentation/HD with factors.png" alt="all factors ploted Graph " width="1000" >
 </p>   
+
+
+
+
+   This is all factors are ploted in one Graph:
+
+   <p align="center">
+  <img src="[image Presentation/Data reframining sample code.png](https://github.com/jkranyak/PROJECT_1_team_decisionmankers/blob/main/images/Squid_Graph.png)" alt="Squid Graph" width="1000" >
+</p>
    
-   
-   ![Squid Graph](https://github.com/jkranyak/PROJECT_1_team_decisionmankers/blob/main/images/Squid_Graph.png)
+ 
 
 2. **What are the highest correlated factors for heart disease?**
 
